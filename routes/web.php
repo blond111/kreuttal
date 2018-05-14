@@ -15,6 +15,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/schwul', function () {
-    return view('schwul');
-});
